@@ -14,3 +14,8 @@ This project is a practice to work with A/B tests which are very commonly perfor
 `Jupyter`,`Python 3.0`:`Pandas`,`NumPy`, `Matplotlib`, `statsmodels.api`
 ## Acknowledgments 
 * Udacity Data analysis - Connect Nanodegree Program with MISK Foundation
+## Resources 
+* Mainly from Udacity's classroom from the Data Analyst nanodegree program.<br/>
+* [SciPy](https://docs.scipy.org/doc/scipy-0.14.0/reference/index.html) for numpy and statistical functions documentation, [Stackoverflow](https://stackoverflow.com) to solve some errors, and more detailed reference is included in the html and notebook files.<br/>
+
+
